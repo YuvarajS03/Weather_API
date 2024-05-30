@@ -1,0 +1,1 @@
+This Project is works under API key for getting the other countries,states weather conditions. You can get the API Key in the website https://openweathermap.org/ here you will get the free API.
